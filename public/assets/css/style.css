@@ -1,0 +1,53 @@
+  body {      
+    background-color: #4c6396;
+    background-image: url("https://i.ytimg.com/vi/6bOetwZ0FOo/hqdefault.jpg")
+  }
+
+  .container{
+      background-color:#6a3535;
+      margin-top: 3%;
+      border: solid #a34bda;
+      padding-top: 1%;
+  }
+  li {
+    padding: 15px;
+    margin: 15px;
+    color: #6a3535;
+    list-style: none;
+  }
+
+  ul {
+	list-style: none;
+}
+
+h1 {
+	text-align: center;
+    color: #6a3535;
+    text-decoration: underline;
+}
+
+h2 {
+	text-align: center;
+    color: #6a3535;
+    text-decoration: underline;
+
+}
+
+.create-form {
+  padding: 15px;
+  margin: 15px;
+  text-align: center;
+  color: #6a3535
+}
+
+.form-group {
+  margin-bottom: 25px;
+}
+
+.btn-primary {
+	border-radius: 15px;
+}
+
+hr{
+    border-color: #6a3535;
+}
